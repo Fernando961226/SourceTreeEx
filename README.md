@@ -6,3 +6,5 @@ second commit
 third commit
 -------------
 foruth commit 
+---------------
+conflicting commit
