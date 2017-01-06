@@ -8,3 +8,5 @@ third commit
 foruth commit 
 ---------------
 conflicting commit
+---------
+Next commit
